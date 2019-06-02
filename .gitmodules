@@ -2,3 +2,6 @@
 	path = koala
 	url = https://github.com/koalalib/koala.git
 	branch = src
+[submodule "extsrc"]
+	path = extsrc
+	url = https://github.com/google/googletest.git
