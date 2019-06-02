@@ -1,0 +1,4 @@
+[submodule "koala"]
+	path = koala
+	url = https://github.com/koalalib/koala.git
+	branch = src
