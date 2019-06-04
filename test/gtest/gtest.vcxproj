@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="gtest-all.cc" />
+    <ClCompile Include="..\..\extsrc\googletest\src\gtest-all.cc" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{B83C4FDD-3F90-45CC-802F-F20C5FEB86F2}</ProjectGuid>

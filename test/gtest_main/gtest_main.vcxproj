@@ -19,12 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="gtest_main.cc" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\gtest\gtest.vcxproj">
       <Project>{b83c4fdd-3f90-45cc-802f-f20c5feb86f2}</Project>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\extsrc\googletest\src\gtest_main.cc" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{DDCD3C2B-4984-4E38-98CA-3A46468FD85B}</ProjectGuid>
